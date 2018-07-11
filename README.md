@@ -15,9 +15,9 @@
  ...
 
 ```
- Serverless examples [https://github.com/serverless/examples] 
+ Serverless examples https://github.com/serverless/examples 
  
- PEP-8 [https://www.python.org/dev/peps/pep-0008/]
+ PEP-8 https://www.python.org/dev/peps/pep-0008/
  
  
 ## Editor settings
