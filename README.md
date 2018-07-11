@@ -15,6 +15,7 @@
  ...
 
 ```
+
  Serverless examples https://github.com/serverless/examples 
  
  PEP-8 https://www.python.org/dev/peps/pep-0008/
@@ -23,19 +24,23 @@
 ## Editor settings
 
 ```
+
 1. Empty line at end of the file.
 2. Four spaces indentation. 
 ...
+
 ```
 
 ## Unit tests
 
 ```
+
 1. All unit test passes.
 2. Unit tests does not affect real external resources like database, file storage, external APIs, etc.
 3. Repeating: unit test does not depend on third party vendor code e.g. propel, amazon S3 SDK, etc.
 ...
 ```
+
 
 
  
