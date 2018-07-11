@@ -1,5 +1,7 @@
- Python/ Serverless / guideline
+ Python and Serverless / guideline
  ========
+ 
+ Python and Serverless standards to go by.
  
  ## Source code
  
