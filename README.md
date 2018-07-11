@@ -1,17 +1,22 @@
- PythonServerless / guideline
+ Python/ Serverless / guideline
  ========
  
  ## Source code
  
- ```
+ ```text
  
- 1 Follow rules defined in PEP-8.
+ 1. Follow rules defined in PEP-8.
  2. Source code follow "clean code" DRY and SOLID principals,  if it is hard to achieve at one sprint, create ticket for “cleaning” in new sprint.
  3. Consider if some bunch of code you create is generic, and can be reused in other projects. Place it in dedicated directory and only register in SF through a bundle. That cases should be calmly discussed with other programmers.
  4. If new service class, method is delivered – it is covered by unit tests in at least 90% level.
+ 5. In aws apis each lambda function should be named after the file name where it's contained.
  ...
+
+```
+ Serverless examples [https://github.com/serverless/examples]
+ PEP-8 [https://www.python.org/dev/peps/pep-0008/]
  
- ``` 
+ 
 ## Editor settings
 
 ```
